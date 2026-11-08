@@ -31,4 +31,4 @@ read the `catalogue` database in MySQL.
 
 ## Browsers tested
 
-- 
+- Opera Gx and Edge
